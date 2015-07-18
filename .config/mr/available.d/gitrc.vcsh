@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/dotfiles-git.git]
+checkout = vcsh clone git@github.com:CedricFinance/dotfiles-git.git
