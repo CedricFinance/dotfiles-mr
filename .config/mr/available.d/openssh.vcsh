@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/openssh.git]
+checkout = vcsh clone /Volumes/Nifty/AppsData/openssh
